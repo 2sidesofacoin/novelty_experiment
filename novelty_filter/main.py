@@ -20,7 +20,7 @@ def main():
     )
     
     # Example usage
-    # Add an entity
+    # Add an e
     entity_id = 1
     fact_system.conn.execute("""
         INSERT INTO entities (entity_id, entity_name, entity_type) 
